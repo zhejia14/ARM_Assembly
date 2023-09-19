@@ -1,4 +1,4 @@
-#### 程式內容:
+### 程式內容:
 
 在main主程式中先建立一個array裡面有數elements，
 最大可有100個elements，在Numsort中建立一個空的array
