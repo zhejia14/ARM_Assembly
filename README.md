@@ -1,5 +1,5 @@
 ## AssemblyLanguage
-### 組合語言 Projects
+### Projects
 
 #### 1.Write an ARM assembly program to compute r0 = 2 * r1 + 4 * r2 + 8 * r3
 #### 2.Write an ARM assembly program to do the matrix computation.
