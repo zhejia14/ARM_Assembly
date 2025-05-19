@@ -1,10 +1,10 @@
-# 🧠 Assembly Language Projects
+# Assembly Language Projects
 
-## 📘 Introduction
+## Introduction
 
 This repository contains a collection of projects developed as part of the *Assembly Language* course at **National Chung Cheng University**. The projects focus on low-level programming using **ARM assembly**, offering hands-on experience with core concepts such as arithmetic operations, memory manipulation, and performance optimization.
 
-## 📂 Project Descriptions
+## Project Descriptions
 
 1. **Arithmetic Operations in ARM Assembly**  
    Implement basic arithmetic operations using ARM assembly instructions.
